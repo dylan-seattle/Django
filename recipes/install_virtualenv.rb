@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: django
-# Recipe:: default
+# Recipe:: install_virtualenv
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 package 'python3-pip'

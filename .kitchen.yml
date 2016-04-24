@@ -11,5 +11,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[django::default]
+      - recipe[django::install_virtualenv]
     attributes:
